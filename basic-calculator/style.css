@@ -45,7 +45,7 @@ button:hover {
     background-color: #ddd;
 }
 
-.clear {
+.clear, .delete {
     background-color: #ff4134;
     color: #fff;
 }
