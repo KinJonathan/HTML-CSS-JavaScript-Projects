@@ -23,8 +23,8 @@ function updateResults() {
 
         clearTimeout(resultTime);
         resultTime = setInterval(()=>{
-            inputE1.innerText = "";
-            resultE1.value = "";
+            inputE1.value = "";
+            resultE1.innerText = "";
         }, 10000);
     }
 
