@@ -15,7 +15,7 @@ body {
     position: absolute;
     width: 80px;
     height: 40px;
-    background-color: lightgray;
+    background-color: black;
     border-radius: 30px;
     cursor: pointer;
 }
