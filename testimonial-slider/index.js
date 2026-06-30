@@ -1,11 +1,11 @@
 const testimonials =[
     {
-        name: "Charise G",
+        name: "Kiniale Jonah",
         photoUrl: "https://images.unsplash.com/photo-1593990965215-075c1f918806?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         text: "I love apple! This is an amazing service and it has saved me and my small business so much time. I plan to use it for a long time to come."
     },
     {
-        name: "Kiniale Jonah",
+        name: "Charise G",
         photoUrl: "https://images.unsplash.com/photo-1474176857210-7287d38d27c6?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         text: "Everyone’s on the same page. Many of our people are not very organized naturally, so Apple is a godsend!."
     },
